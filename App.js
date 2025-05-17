@@ -14,6 +14,7 @@ export default function App() {
     return (
       <Stack.Navigator>
         <Stack.Screen name="Login" component={Login} />
+        <Stack.Screen name="Prueba de Subida" component={Login} />
         <Stack.Screen name="Home" component={Home} />
       </Stack.Navigator>
     );
