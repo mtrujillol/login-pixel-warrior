@@ -74,7 +74,6 @@ const styles = StyleSheet.create({
   PadreBoton: {
     palignItems: "center",
   },
-
   cajaBoton: {
     backgroundColor: "#525FE1",
     borderRadius: 30,
